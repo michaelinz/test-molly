@@ -1,0 +1,70 @@
+[{
+    "name": "John Doe",
+    "id": 1,
+    "avatar": "/images/a1.jpeg",
+    "position": "CEO/President",
+    "subordinates": [
+      {
+        "name": "Jane Smith",
+        "id": 2,
+        "avatar": "/images/a2.jpeg",
+        "position": "Vice President",
+        "subordinates": [
+          {
+            "name": "Alice Johnson",
+            "id": 3,
+            "avatar": "/images/a3.jpeg",
+            "position": "Director",
+            "subordinates": [
+              {
+                "name": "Bob Brown",
+                "id": 4,
+                "avatar": "/images/a4.jpeg",
+                "position": "Manager",
+                "subordinates": [
+                  {
+                    "name": "Eve White",
+                    "id": 5,
+                    "avatar": "/images/a5.jpeg",
+                    "position": "Employee",
+                    "subordinates": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Charlie Davis",
+            "id": 6,
+            "avatar": "/images/a6.jpeg",
+            "position": "Director",
+            "subordinates": [
+              {
+                "name": "Grace Wilson",
+                "id": 7,
+                "avatar": "/images/a7.jpeg",
+                "position": "Manager",
+                "subordinates": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Samuel Lee",
+        "id": 8,
+        "avatar": "/images/a8.jpeg",
+        "position": "Vice President",
+        "subordinates": [
+          {
+            "name": "Olivia Turner",
+            "id": 9,
+            "avatar": "/images/a9.jpeg",
+            "position": "Director",
+            "subordinates": []
+          }
+        ]
+      }
+    ]
+  }
+]

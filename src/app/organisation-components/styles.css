@@ -1,0 +1,9 @@
+.MuiTreeItem-label{
+    margin-right: 40px;
+}
+.MuiTreeItem-iconContainer{
+    /* margin-right:40px !important; */
+}
+.Mui-selected{
+    background-color: initial !important;
+}
